@@ -1,4 +1,4 @@
-"GPT CODEX"는 Java 21과 Spring Boot 3를 기반으로 구축된 웹 애플리케이션입니다.
+Java 21과 Spring Boot 3를 기반으로 구축된 웹 애플리케이션입니다.
 주요 기능은 Thymeleaf와 Bootstrap 5를 사용한 웹 페이지를 제공하며, ReactFlow를 사용한 별도의 디자이너(designer) 기능을 포함합니다.
 
 🚀 주요 기술 스택 (Tech Stack)
