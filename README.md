@@ -31,6 +31,7 @@ Gradle
 
 프로젝트는 Spring Boot 백엔드(src)와 ReactFlow 프론트엔드(frontend)의 모노레포(monorepo) 형태로 구성될 수 있습니다.
 
+```
 gpt-codex/
 ├── frontend/         <!-- ReactFlow (디자이너) 프로젝트 루트 -->
 │   ├── public/
@@ -58,7 +59,7 @@ gpt-codex/
 │   │   │   │   └── pages
 │   │   │   └── application.properties
 ...
-
+```
 
 Thymeleaf 템플릿 설명
 
